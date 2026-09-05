@@ -1,0 +1,26 @@
+model,body_type,fuel_type,starting_price_inr,starting_price_lakh,source,source_url,data_status,last_checked
+CLA,Limousine,Electric,5650000,56.5,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+C-Class,Limousine,Petrol / Diesel,6120000,61.2,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+C-Class,Limousine,Plug-in Hybrid Petrol,9405000,94.05,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+EQS,Limousine,Electric,13000000,130.0,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+E-Class Sedan Long,Limousine,Petrol / Diesel,8150000,81.5,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+S-Class,Limousine,Plug-in Hybrid,22000000,220.0,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+Mercedes-Maybach S-Class,Limousine,Petrol,28750000,287.5,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+E-Class Sedan,Limousine,Plug-in Hybrid,14500000,145.0,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+EQS,SUV,Electric,13350000,133.5,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+Mercedes-Maybach EQS SUV,SUV,Electric,24000000,240.0,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+GLA,SUV,Petrol / Diesel,5180000,51.8,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+GLC,SUV,Petrol / Diesel,7700000,77.0,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+GLE,SUV,Petrol / Diesel,10000000,100.0,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+GLS,SUV,Petrol / Diesel,13750000,137.5,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+Mercedes-Maybach GLS,SUV,Petrol,27500000,275.0,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+G-Class,SUV,Electric,31000000,310.0,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+G-Class,SUV,Diesel,29000000,290.0,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+G-Class,SUV,Petrol,37400000,374.0,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+GLC Coupé,SUV,Petrol,9985000,99.85,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+GLE Coupé,SUV,Petrol,15200000,152.0,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+CLE Cabriolet,Cabriolet / Roadster,Petrol,11500000,115.0,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+Mercedes-Maybach SL Monogram Series,Cabriolet / Roadster,Petrol,43000000,430.0,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+A-Class Hatchback,Hatchback,Petrol,8700000,87.0,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+CLE Coupé,Coupé,Petrol,13250000,132.5,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
+Mercedes AMG GT Coupé,Coupé,Petrol,30000000,300.0,Mercedes-Benz India official website,https://www.mercedes-benz.co.in/passengercars/models.html,Official model overview; starting price is indicative,2026-09-05
