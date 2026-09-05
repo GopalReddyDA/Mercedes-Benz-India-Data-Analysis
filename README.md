@@ -1,6 +1,6 @@
 # Mercedes-Benz-India-Data-Analysis
 
-[! Benz cars Analysis](https://github.com/GopalReddyDA/Mercedes-Benz-India-Data-Analysis/blob/main/Mercedes-Benz-Logo.avif)
+![Mercedes-Benz Cars Analysis](./images/Mercedes-Benz-Logo.avif)
 ### Project Overview :
 
 This project analyzes the Mercedes-Benz India model portfolio using Python.
